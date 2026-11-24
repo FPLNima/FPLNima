@@ -15,9 +15,9 @@ I used to be known mostly for Fantasy Premier League content. Now I’m taking t
 
 ## Current experiments
 
-- A personal AI operating system across ChatGPT, Codex, Gmail, Calendar, ClickUp, Attio, Spotify, Shazam, Canva, Gamma, and scheduled agents
+- A personal AI operating system, described in [personal-ai-os](https://github.com/FPLNima/personal-ai-os)
 - An Attio-powered personal CRM for relationships, events, builders, GTM people, and follow-ups
-- Private mini-apps for fitness, Japanese reactivation, life admin, and learning
+- Small personal apps and learning projects
 - AI-assisted workflows for research, routing, prep, and CRM hygiene
 
 ## Why this GitHub exists
@@ -30,4 +30,4 @@ Some repos will be polished. Some will be experiments. Some will be learning pro
 
 - X: https://x.com/FPLNima
 - Role: Solutions Engineer @ Attio
-- Location: London
+- Location: Son of Tehran in London
